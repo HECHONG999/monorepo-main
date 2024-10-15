@@ -1,0 +1,3 @@
+[submodule "apps"]
+	path = apps
+	url = git@github.com:HECHONG999/sub-monorepo-system.git
