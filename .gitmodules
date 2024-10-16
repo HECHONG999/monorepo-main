@@ -2,3 +2,6 @@
 [submodule "apps/sub-monorepo-system"]
 	path = apps/sub-monorepo-system
 	url = git@github.com:HECHONG999/sub-monorepo-system.git
+[submodule "apps/web"]
+	path = apps/web
+	url = git@github.com:HECHONG999/web.git
